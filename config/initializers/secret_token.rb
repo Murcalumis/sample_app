@@ -10,7 +10,6 @@
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
 
-# SampleApp::Application.config.secret_key_base = 'f698637868cb7f0acc45b7a2f1ddc7f6773417ff5caa8494de6255807402d31e9f140e34a3dd38240ced00aa4f3a86e9829d3d8b871c9956cad16a041d21818e'
 
 require 'securerandom'
 
